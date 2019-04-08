@@ -1,0 +1,779 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VioMag\n"
+"POT-Creation-Date: 2017-11-07 07:52+0100\n"
+"PO-Revision-Date: 2017-11-07 07:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: archive.php:17
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:19
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:19
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:21
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:21
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:23
+msgid "Archives"
+msgstr ""
+
+#: author.php:20
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:39 template-parts/author-info-box.php:15
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: category.php:15
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments.php:24
+#, php-format
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:34
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:35
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:36
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:11 index.php:48 search.php:30
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:15 index.php:52
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: content-page.php:16 content.php:110 image.php:98
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:19 content.php:140 functions.php:429 image.php:33
+#: template-parts/sticky.php:48
+msgid "Edit"
+msgstr ""
+
+#: content.php:109
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:48
+msgid "by"
+msgstr ""
+
+#: footer.php:49
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:49
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:49
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Social Menu (Top bar)"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own language.
+#.
+#: functions.php:113
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional Open Sans character subset specific to your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate into your own language.
+#.
+#: functions.php:119
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:264 inc/viomag-lite-customizer.php:532
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:266
+msgid "Appears on posts and pages except Full-width Page Template"
+msgstr ""
+
+#: functions.php:274
+msgid "Site Header"
+msgstr ""
+
+#: functions.php:276
+msgid ""
+"Appears inside the site header, at right. You can use it to show Google "
+"AdSense ad."
+msgstr ""
+
+#: functions.php:284 header.php:97
+msgid "Mag Front Page: Below Header"
+msgstr ""
+
+#: functions.php:286
+msgid ""
+"Appears on (VioMag) Magazine Front Page template only. Use the \"(VM) 5 "
+"Posts - Style 1\" widget in this widget area."
+msgstr ""
+
+#: functions.php:294 page-templates/viomag-mag-front-page.php:29
+msgid "Mag Front Page: Main Content"
+msgstr ""
+
+#: functions.php:296
+msgid ""
+"Appears on (VioMag) Magazine Front Page template only. Use the (VM Mag) "
+"widgets to customize the content of your site front page."
+msgstr ""
+
+#: functions.php:304
+msgid "Below Post Title"
+msgstr ""
+
+#: functions.php:305
+msgid "Appears below posts title"
+msgstr ""
+
+#: functions.php:314
+msgid "Below Post Content"
+msgstr ""
+
+#: functions.php:315
+msgid "Appears at the end of posts content"
+msgstr ""
+
+#: functions.php:324
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:325 functions.php:335 functions.php:345 functions.php:355
+msgid "Appears in footer"
+msgstr ""
+
+#: functions.php:334
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:344
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:354
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:370
+msgid "&laquo; Previous"
+msgstr ""
+
+#: functions.php:371
+msgid "Next &raquo;"
+msgstr ""
+
+#: functions.php:397
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:397
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:412
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:418
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:424
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:433
+msgid "Reply"
+msgstr ""
+
+#: functions.php:516
+msgid "Read more"
+msgstr ""
+
+#: functions.php:570
+msgid ""
+"<strong>VioMag Notice:</strong> In order for images to be displayed "
+"correctly in widgets, featured images must have a minimum size of 576x432 "
+"pixels."
+msgstr ""
+
+#: header.php:66 template-parts/top-bar.php:7
+msgid "MENU"
+msgstr ""
+
+#: header.php:76
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:99
+msgid ""
+"Please go to Appearance > Customize > Widgets and add to the \"Mag Front "
+"Page: Below Header\" widget area the recommended widget \"(VM Mag) 5 posts - "
+"Style 1\". You can also leave this area empty."
+msgstr ""
+
+#: image.php:22
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: image.php:37
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:38
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:196
+msgid "General Settings"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:210
+msgid "Site Logo/Icon/Title/Tagline"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:227
+msgid "Theme Primary Color"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:233
+msgid "Blue"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:234
+msgid "Green"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:235
+msgid "Orange"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:236
+msgid "Pink"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:237
+msgid "Red"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:247
+msgid "Apply to entry title in excerpts"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:256
+msgid "Apply to the left border of extracts"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:265
+msgid "Apply to widget title"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:267 inc/viomag-lite-customizer.php:403
+msgid "(Uncheck: Light gray)"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:277
+msgid "Fonts"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:286
+msgid "Select font"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:310
+msgid ""
+"if you set Header Image, it will replace logo set in Site Logo option and "
+"Header widget area."
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:326
+msgid "Header, Content and Footer"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:335
+msgid "Top bar"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:343
+msgid "Display top bar"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:351
+msgid "White color (Uncheck: black)"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:359
+msgid "Show the word menu next to the icon menu on mobile devices."
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:367
+msgid "Custom text (HTML allowed)"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:377
+msgid "Social icons color"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:382
+msgid "Original color"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:383
+msgid "Gray"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:394
+msgid "Main Menu"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:401
+msgid "Black menu"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:410
+msgid "Center menu"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:421
+msgid "Menu line"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:426
+msgid "Bottom"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:427
+msgid "Top"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:428
+msgid "None"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:440
+msgid "Posts and Pages"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:446
+msgid ""
+"Show full content of the entries in the main page (If the main page is not "
+"set as a Magazine.)"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:457
+msgid "Show featured image in posts"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:462
+msgid "Not show"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:463
+msgid "Above post title"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:464
+msgid "Below post title"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:473
+msgid "Excerpt's thumbnail image rounded"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:480
+msgid "Show metadata in excerpts (Author, date and number of comments)"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:487
+msgid "Entry text justified"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:494
+msgid "Display related posts at the end of entries (based on tags)"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:498 template-parts/related-posts.php:25
+msgid "Related posts..."
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:500
+msgid "Related posts title"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:505
+#: inc/viomag-mag-widget-5-posts-st1.php:151
+#: inc/viomag-mag-widget-5-posts-st1.php:189 template-parts/sticky.php:10
+msgid "Featured"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:507
+msgid "Label for Sticky Posts"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:515
+msgid "Show navigation at the end of posts (links to previous and next posts)"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:522
+msgid "Display 'Back to top' button"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:542
+msgid "Select sidebar position"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:547
+msgid "Left"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:548
+msgid "Right"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:559
+msgid "Footer texts"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:564
+msgid "Footer left text"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:571
+msgid "Footer center text"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:578
+msgid "Footer right text"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:590
+msgid "First Steps and Links"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:603
+msgid "Links"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:616
+msgid ""
+"Please, if you are happy with the theme, say it on wordpress.org and give "
+"VioMag a nice review. Thank you"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:616
+msgid "Rate/Review"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:628
+msgid "Live Demo"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:629
+msgid "Pro Version"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:642
+msgid "First Steps"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:653
+msgid "Setting up Magazine Home Page"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:654
+msgid ""
+"1. Create a new page (with any title, it does not matter)<br/>\n"
+"2. In right column go to Page Attributes > Template and select (VioMag) "
+"Magazine Front Page<br/>\n"
+"3. Click on Publish<br/>\n"
+"4. Go to Appearance > Customize > General settings > Static Front Page<br/>\n"
+"5. Select A static page<br/>\n"
+"6. In Front Page, select the page that you created in the step 1<br/>\n"
+"7. Save changes"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:672
+msgid "Widgets do not display images correctly"
+msgstr ""
+
+#: inc/viomag-lite-customizer.php:673
+msgid ""
+"<p><strong>In order for images to be displayed correctly in widgets, "
+"featured images must have a minimum size of 576x432 pixels</strong>.</"
+"p><p>If the image thumbnails are not displayed correctly (because VioMag is "
+"not the first theme used) you will need to regenerate the thumbnails with a "
+"free plugin as"
+msgstr ""
+
+#: inc/viomag-mag-widget-3-posts.php:24
+msgid ""
+"Displays the latest 3 post of specific category. This widget must use it "
+"ONLY on the MAGAZINE FRONT PAGE."
+msgstr ""
+
+#: inc/viomag-mag-widget-3-posts.php:27
+msgid "3 Posts"
+msgstr ""
+
+#: inc/viomag-mag-widget-3-posts.php:48
+#: inc/viomag-mag-widget-5-posts-st1.php:47
+#: inc/viomag-mag-widget-5-posts-st2.php:48
+#: inc/viomag-mag-widget-cols-cats.php:62
+#: inc/viomag-mag-widget-cols-cats.php:98
+msgid "Title"
+msgstr ""
+
+#: inc/viomag-mag-widget-3-posts.php:55
+#: inc/viomag-mag-widget-5-posts-st1.php:54
+#: inc/viomag-mag-widget-5-posts-st2.php:55
+msgid "Select category"
+msgstr ""
+
+#: inc/viomag-mag-widget-3-posts.php:59
+#: inc/viomag-mag-widget-5-posts-st1.php:58
+#: inc/viomag-mag-widget-5-posts-st2.php:59
+#: inc/viomag-mag-widget-cols-cats.php:73
+#: inc/viomag-mag-widget-cols-cats.php:109
+msgid "All"
+msgstr ""
+
+#: inc/viomag-mag-widget-3-posts.php:76
+#: inc/viomag-mag-widget-5-posts-st2.php:76
+msgid "Number of post to pass over"
+msgstr ""
+
+#: inc/viomag-mag-widget-3-posts.php:83
+#: inc/viomag-mag-widget-5-posts-st1.php:75
+msgid "Frame"
+msgstr ""
+
+#: inc/viomag-mag-widget-3-posts.php:85
+#: inc/viomag-mag-widget-5-posts-st1.php:77
+#: inc/viomag-mag-widget-5-posts-st2.php:85
+msgid "Frameless"
+msgstr ""
+
+#: inc/viomag-mag-widget-3-posts.php:86
+#: inc/viomag-mag-widget-5-posts-st1.php:78
+#: inc/viomag-mag-widget-5-posts-st2.php:86
+msgid "Light frame"
+msgstr ""
+
+#: inc/viomag-mag-widget-5-posts-st1.php:24
+msgid ""
+"Displays the latest 5 posts of specific category. This widget must use it "
+"ONLY on the MAGAZINE FRONT PAGE, in Mag Front Page: Below Header widget area."
+msgstr ""
+
+#: inc/viomag-mag-widget-5-posts-st1.php:27
+msgid "5 Posts - Style 1"
+msgstr ""
+
+#: inc/viomag-mag-widget-5-posts-st1.php:45
+msgid ""
+"This widget must use it ONLY on the FRONT PAGE, in Below Header widget area."
+msgstr ""
+
+#: inc/viomag-mag-widget-5-posts-st1.php:79
+#: inc/viomag-mag-widget-5-posts-st2.php:87
+msgid "Dark frame"
+msgstr ""
+
+#: inc/viomag-mag-widget-5-posts-st2.php:24
+msgid ""
+"Displays the latest 5 posts of specific category. This widget must use it "
+"ONLY on the MAGAZINE FRONT PAGE."
+msgstr ""
+
+#: inc/viomag-mag-widget-5-posts-st2.php:27
+msgid "5 Posts - Style 2"
+msgstr ""
+
+#: inc/viomag-mag-widget-5-posts-st2.php:83
+msgid "Main item frame"
+msgstr ""
+
+#: inc/viomag-mag-widget-cols-cats.php:24
+msgid ""
+"Displays the latest posts of two specific categories (each category in a "
+"column). This widget must use it ONLY on the MAGAZINE FRONT PAGE."
+msgstr ""
+
+#: inc/viomag-mag-widget-cols-cats.php:27
+msgid "Two Columns"
+msgstr ""
+
+#: inc/viomag-mag-widget-cols-cats.php:60
+msgid "Left Column"
+msgstr ""
+
+#: inc/viomag-mag-widget-cols-cats.php:69
+#: inc/viomag-mag-widget-cols-cats.php:105
+msgid "Category"
+msgstr ""
+
+#: inc/viomag-mag-widget-cols-cats.php:96
+msgid "Right Column"
+msgstr ""
+
+#: inc/viomag-mag-widget-cols-cats.php:129
+msgid "Common"
+msgstr ""
+
+#: inc/viomag-mag-widget-cols-cats.php:132
+msgid "Number of posts to display"
+msgstr ""
+
+#: inc/viomag-mag-widget-cols-cats.php:139
+msgid "Show excerpt"
+msgstr ""
+
+#: index.php:37
+msgid "No posts to display"
+msgstr ""
+
+#: index.php:41
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: page-templates/viomag-mag-front-page.php:31
+msgid ""
+"Please go to Appearance > Customize > Widgets and add at least one widget to "
+"the \"Mag Front Page: Main Content\" widget area. You must use the \"(VM "
+"Mag)\" widgets to set up the theme like the demo website."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:34
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: tag.php:15
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: template-parts/author-info-box.php:19
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/menu-movil.php:11 template-parts/menu-movil.php:13
+#: template-parts/searchform-toggle.php:3
+#: template-parts/searchform-toggle.php:5
+msgid "Search"
+msgstr ""
+
+#: template-parts/menu-movil.php:12 template-parts/searchform-toggle.php:4
+msgid "Search..."
+msgstr ""
+
+#: template-parts/top-bar.php:22
+msgid "Social Menu"
+msgstr ""
